@@ -28,7 +28,7 @@ The task is episodic, and in order to solve the environment, my agent will get a
     - Windows (32-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86.zip)
     - Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip)
     
-    (_For Windows users_) A Windows version of the agent is included in this repo. If you're not on Windows you'll need to replace the included environment with one for your own OS. Just unzip Banana_Windows_x86_64.7z into the Banana_Windows_x86_64 folder.
+    (_For Windows users_) A Windows folder for the agent is included in this repo (Banana_Windows_x86_64). In that folder, follow the link in the README to download the environment files for a Windows agent.
 
     (_For AWS_) If you'd like to train the agent on AWS (and have not [enabled a virtual screen](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Training-on-Amazon-Web-Service.md)), then please use [this link](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux_NoVis.zip) to obtain the environment.
 
